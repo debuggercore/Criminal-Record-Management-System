@@ -1,0 +1,34 @@
+body {
+    color: #666;
+	background-image: url("final.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}
+.header .pure-menu {
+    border-bottom-color: black;
+    border-radius: 0;
+}
+.pure-menu{
+-webkit-box-sizing:border-box;
+-moz-box-sizing:border-box;
+box-sizing:border-box
+}
+.pure-menu-horizontal{
+width:100%;white-space:nowrap}.pure-menu-horizontal .pure-menu-list{display:inline-block}.pure-menu-horizontal .pure-menu-item,.pure-menu-horizontal .
+pure-menu-heading,.pure-menu-horizontal .pure-menu-separator{display:inline-block;*display:inline;zoom:1;vertical-align:middle}
+.pure-menu-horizontal .pure-menu-children{left:0;
+top:auto;width:inherit}
+.pure-menu-horizontal .pure-menu-has-children>.pure-menu-link:
+after{content:"\25BE"}
+
+.pure-menu-horizontal.
+pure-menu-scrollable .pure-menu-list{display:inline-block}.pure-menu-horizontal.pure-menu-scrollable{white-space:nowrap;overflow-y:hidden;overflow-x:auto;
+-ms-overflow-style:none;-webkit-overflow-scrolling:touch;padding:.5em 0}.pure-menu-horizontal.pure-menu-scrollable::-webkit-scrollbar{display:none}
+.pure-menu-horizontal .pure-menu-separator{width:1px;height:1.3em;margin:0 .3em}
+
+.pure-menu-list{list-style:none;margin:0;padding:0}
+.pure-menu-list,.pure-menu-item{position:relative}
+.pure-menu-scrollable .pure-menu-list{display:block}
+pure-menu-item{padding:0;margin:0;height:100%}
